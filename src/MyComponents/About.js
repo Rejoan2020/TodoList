@@ -9,7 +9,7 @@ let myStyle = {
     <div style={myStyle}>
       <h3>About</h3>
       <p>
-        This is about.
+        Though it is a very basic todolist, it is useful. You can list your to-dos and manage them.
       </p>
     </div>
   )
